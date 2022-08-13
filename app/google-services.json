@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "213822636378",
+    "project_id": "auth-catatan-harian-fcf0d",
+    "storage_bucket": "auth-catatan-harian-fcf0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213822636378:android:8d6a41ef5b368b2410b363",
+        "android_client_info": {
+          "package_name": "com.ivan.catatan_harian_10119003"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213822636378-ebttijjq5r4hgdo1ghegp6g2d9234k45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa5nnjt5P96M0vqW4cBd3U5DeJgu6uwqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213822636378-ebttijjq5r4hgdo1ghegp6g2d9234k45.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
